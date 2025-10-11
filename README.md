@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/devMauriciojunior">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devMauricioJunior&layout=compact&langs_count=7&theme=react">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMauriciojunior&layout=compact&langs_count=7&theme=react">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devMauriciojunior&include_all_commits=true&hide=stars,prs,issues,contribs&rank_icon=github&show_icons=true&theme=city_lights">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMauriciojunior&layout=compact&langs_count=8&theme=city_lights&card_width=320">
 </div>
 
 ##
@@ -18,7 +18,7 @@
   <img align="center" height="40em" alt="Rafa-Js" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
