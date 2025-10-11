@@ -6,11 +6,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMauriciojunior&layout=compact&langs_count=8&theme=city_lights&card_width=320">
 </div> -->
 
-  <a href="https://github.com/devMauriciojunior">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devMauriciojunior&include_all_commits=true&hide=stars,prs,issues,contribs&rank_icon=github&show_icons=true&theme=city_lights">
+<a href="https://github.com/devMauriciojunior">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devMauriciojunior&include_all_commits=true&hide=stars,prs,issues,contribs&rank_icon=github&show_icons=true&theme=city_lights&card_width=300"/>
 </a>
-  <a href="https://github.com/devMauriciojunior">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMauriciojunior&layout=compact&langs_count=8&theme=city_lights&card_width=320">
+<a href="https://github.com/devMauriciojunior">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMauriciojunior&layout=compact&langs_count=8&theme=city_lights&card_width=320"/>
 </a>
 
 ##
